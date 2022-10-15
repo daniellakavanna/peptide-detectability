@@ -6,7 +6,7 @@ The aim of this project was to predict peptide detectability and develop reporte
 
 This study achieved its goal of predicting peptide detectability with reporter ion intensity quantitation algorithms and improved model performace over the baseline. Model performance is compared between a Random Forest and multi-input Transformer using an array of evaluation metrics to determine the effectiveness of the models. 
 
-This study used two shotgun proteomic (a combination of high performance liquid chromatography combined with mass spectrometry) experimental datasets. The first dataset used for model training was the Homo sapiens proteome PTEN TMT10plex dataset, provided by the Bessant Laboratory. The second was TMT6plex plasma, used as an independent dataset to determine model generalisation which had fewer proteins. 
+This study used two shotgun proteomic (a combination of high performance liquid chromatography combined with mass spectrometry) experimental datasets. The first dataset used for model training was the Homo sapiens PTEN TMT10plex dataset, provided by the Bessant Laboratory. The second was TMT6plex plasma, used as an independent dataset to determine model generalisation which had fewer proteins. 
 
 Ultimately, this work can be used as an aid to solve the effects of variability within the shotgun proteomics workflow and allow better identification and quantification of proteins. 
 
