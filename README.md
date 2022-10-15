@@ -30,7 +30,7 @@ Ultimately, this work can be used as an aid to solve the effects of variability 
 
 # Preview of Results
 
-## Accuracy distribution and box plot comparison for different windows of peptide length for the TMT10plex PTEN dataset. 
+## Accuracy distribution and Box Plot Comparison
 
 
 <img width="1101" alt="image" src="https://user-images.githubusercontent.com/93345220/195987682-6f1abe63-7a67-4d7b-9a1b-996af582570c.png">
