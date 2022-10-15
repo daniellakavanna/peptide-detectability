@@ -4,7 +4,7 @@ A repository to show my MSc Bioinformatics research project completed at the Bes
 
 The aim of this project was to predict peptide detectability, develop reporter ion intensity quantitation algorithms and compare candidate ML models. This project is based on previous work which estabilished a Transformer based peptide detectability predictor trained on sequence, spectral counting abundance features and physiochemical properties extracted from the AAIndex database. 
 
-This study achieved its goal of predicting peptide detectability with reporter ion intensity quantitation algorithms and improved model performace over the baseline. Model performance is compared between a Random Forest and multi-input Transformer using an array of evaluation metrics to determine the effectiveness of the models. 
+This study achieved its goal of predicting peptide detectability with reporter ion intensity quantitation algorithms and improved model performace over the baseline (encoded sequence model). Model performance is compared between a Random Forest and multi-input Transformer using an array of evaluation metrics to determine the effectiveness of the models. 
 
 This study used two shotgun proteomic (a combination of high performance liquid chromatography combined with mass spectrometry) experimental datasets. The first dataset used for model training was the Homo sapiens PTEN TMT10plex dataset, provided by the Bessant Laboratory. The second was TMT6plex plasma, used as an independent dataset to determine model generalisation which had fewer proteins. 
 
