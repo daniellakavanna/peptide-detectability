@@ -2,7 +2,7 @@
 
 A repository to show my MSc Bioinformatics research project completed at the Bessant Laboratory at Queen Mary University of London. 
 
-The aim of this project was to predict peptide detectability and develop reporter ion intensity quantitation and compare candidate models. This project is based on previous work which estabilished a Transformer based peptide detectability predictor trained on sequence, spectral counting abundance features and physiochemical properties extracted from the AAIndex database. 
+The aim of this project was to predict peptide detectability and develop reporter ion intensity quantitation algorithms and compare candidate models. This project is based on previous work which estabilished a Transformer based peptide detectability predictor trained on sequence, spectral counting abundance features and physiochemical properties extracted from the AAIndex database. 
 
 This study achieved its goal of predicting peptide detectability with reporter ion intensity quantitation algorithms and improved model performace over the baseline. Model performance is compared between a Random Forest and multi-input Transformer using an array of evaluation metrics to determine the effectiveness of the models. 
 
