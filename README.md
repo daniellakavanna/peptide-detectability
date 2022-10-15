@@ -10,7 +10,7 @@ This study used two shotgun proteomic (a combination of high performance liquid 
 
 Ultimately, this work can be used as an aid to solve the effects of variability within the shotgun proteomics workflow and allow better identification and quantification of proteins. 
 
-### In terms of libraries:
+### Libraries:
   Pandas 
   Numpy 
   Scikit learn 
