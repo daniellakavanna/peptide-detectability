@@ -37,7 +37,7 @@ Ultimately, this work can be used as an aid to solve the effects of variability 
 
 
 
-## ROC and PR Curves for a Comparison between Random Forest and Transformer 
+## Comparison between Random Forest and Transformer 
 
 
 <img width="906" alt="image" src="https://user-images.githubusercontent.com/93345220/195987327-450163dd-d0d3-49da-9417-a50b03247b0b.png">
