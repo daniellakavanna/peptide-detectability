@@ -1,4 +1,5 @@
-## One Hot Encoding Peptide Sequeunces 
+# One Hot Encoding Peptide Sequence
+
 # import statements 
 import numpy as np 
 
