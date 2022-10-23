@@ -1,3 +1,5 @@
+## One Hot Encoding Peptide Sequeunces 
+# import statements 
 import numpy as np 
 
 def onehot(sequence):
