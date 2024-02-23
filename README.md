@@ -1,4 +1,4 @@
-# peptide-detectability-predicion
+# peptide-detectability-prediction
 
 A repository to show my MSc Bioinformatics research project completed at the Bessant Laboratory at Queen Mary University of London. 
 
